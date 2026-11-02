@@ -1,0 +1,16 @@
+{
+  "name": "Linhas do Caderno",
+  "short_name": "Linhas",
+  "description": "Estime quantas linhas um texto ocupa no seu caderno.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "pt-BR",
+  "background_color": "#FAFCFF",
+  "theme_color": "#2B4C8C",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
